@@ -9,6 +9,9 @@ body{
     text-align: center;
     box-sizing: border-box;
 }
+h1{
+    line-height: 4rem;
+}
 .container{
     height: 70vh;
     display: flex;
