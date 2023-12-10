@@ -10,7 +10,7 @@ body{
     box-sizing: border-box;
 }
 h1{
-    line-height: 4rem;
+    margin-top: 2rem;
 }
 .container{
     height: 70vh;
